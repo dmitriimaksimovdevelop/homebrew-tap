@@ -2,7 +2,7 @@ class MacosNetbirdReconnect < Formula
   desc "macOS daemon to reconnect NetBird VPN after wake"
   homepage "https://github.com/dmitriimaksimovdevelop/macos-netbird-reconnect"
   url "https://github.com/dmitriimaksimovdevelop/macos-netbird-reconnect/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "6c774543b86254890555b7b1b7e2a1f52dfab76842e1c13b85f41fbeaafd7fa6"
+  sha256 "22744911c6d2901bfe90d4bff08d997238d1bfc5f8d7f55e657c75810b316fe5"
   license "MIT"
   head "https://github.com/dmitriimaksimovdevelop/macos-netbird-reconnect.git", branch: "main"
 
